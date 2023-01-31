@@ -88,6 +88,83 @@ h1 {
     
 }
 
+ul{
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+li{list-style: none;
+    font-size: 24px;
+    line-height: 60px;
+}
+
+.list{
+    width: 30px;
+    height:30px;
+    border-radius: 30px;
+    margin: 5px;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.check{    border: 2px solid #81cfbf;
+    color: #81cfbf;
+}
+
+.cross{    border: 2px solid red;
+    color: red;}
+
+li{list-style: none;
+    font-size: 24px;
+    line-height: 60px;
+
+}
+
+
+.marker{
+    display: inline-block;
+    margin: 20px;
+    color: white;
+    border-radius: 25px;
+    font-weight: 400;
+    font-size: 20px;
+    padding:5px;
+    height: 50px;
+    text-align: center;
+    line-height: 40px;
+    width: 120px;
+}
+
+.editorial{
+    background-color:#3fa8e7;
+
+}
+
+.goals{
+    background-color: #a26ce0;
+}
+
+.recruiting{
+    background-color: #58c0aa;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.website{
+    background-color: #de629f;
+}
+
+.sales{
+    background-color: #abcb40;
+}
+
+
 
 
 
