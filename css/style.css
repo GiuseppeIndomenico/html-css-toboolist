@@ -20,17 +20,17 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-body{
-    background-color:#f6f8f9;
+body {
+    background-color: #f6f8f9;
 }
 
-.top-bar{
+.top-bar {
     width: 100%;
     height: 120px;
     background-color: white;
 }
 
-.top-bar img{
+.top-bar img {
     width: 120px;
     height: 120px;
     padding: 20px;
@@ -46,62 +46,64 @@ h1 {
 
 /*inizio main*/
 
-.conteiner, .top-conteiner{
-    width:70%;
+.conteiner,
+.top-conteiner {
+    width: 70%;
     height: 1000px;
-    margin:auto;
+    margin: auto;
     background-color: white;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     padding-left: 30px;
 }
 
-.top-conteiner{
+.top-conteiner {
     height: 100px;
     border-bottom: 5px solid #f6f8f9;
     padding: 20px;
     margin-top: 60px;
- 
+
 }
 
-.button{
+.button {
     float: left;
     height: 45px;
-    margin:5px;
-    padding:12px;
+    margin: 5px;
+    padding: 12px;
     border-radius: 8px;
     text-align: center;
     font-weight: bold;
 
-    
- 
+
+
 }
 
-.button.task{
+.button.task {
     color: white;
-    background-color:#42aaee;
+    background-color: #42aaee;
 }
 
-.button.section{
+.button.section {
     color: lightgrey;
     border: 2px solid lightgrey;
-    
+
 }
 
-ul{
+ul {
     font-size: 36px;
     font-weight: bold;
     padding-top: 20px;
 }
 
-li{list-style: none;
+li {
+    list-style: none;
     font-size: 24px;
     line-height: 60px;
 }
 
-.list{
+.list {
     width: 30px;
-    height:30px;
+    height: 30px;
     border-radius: 30px;
     margin: 5px;
     text-align: center;
@@ -111,63 +113,62 @@ li{list-style: none;
     display: inline-block;
 }
 
-.check{    border: 2px solid #81cfbf;
+.check {
+    border: 2px solid #81cfbf;
     color: #81cfbf;
 }
 
-.cross{    border: 2px solid red;
-    color: red;}
+.cross {
+    border: 2px solid red;
+    color: red;
+}
 
-li{list-style: none;
+li {
+    list-style: none;
     font-size: 24px;
     line-height: 60px;
 
 }
 
 
-.marker{
+.marker {
     display: inline-block;
     margin: 20px;
     color: white;
     border-radius: 25px;
     font-weight: 400;
     font-size: 20px;
-    padding:5px;
+    padding: 5px;
     height: 50px;
     text-align: center;
     line-height: 40px;
     width: 120px;
 }
 
-.editorial{
-    background-color:#3fa8e7;
+.editorial {
+    background-color: #3fa8e7;
 
 }
 
-.goals{
+.goals {
     background-color: #a26ce0;
 }
 
-.recruiting{
+.recruiting {
     background-color: #58c0aa;
 }
 
-.mobile{
+.mobile {
     background-color: orange;
 }
 
-.website{
+.website {
     background-color: #de629f;
 }
 
-.sales{
+.sales {
     background-color: #abcb40;
 }
-
-
-
-
-
 
 
 
